@@ -30,7 +30,7 @@
       "last 1 safari version"
     ]
   },
-  "hompage": "http://cmhui.github.io/moive-app",
+  "homepage": "http://cmhui.github.io/moive-app",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
